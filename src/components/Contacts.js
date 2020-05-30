@@ -5,7 +5,7 @@ import firebaseDb from '../firebase';
 const Contacts = () => {
 
     const addOrEdit = obj => {
-        console.log("hello");
+        console.log("pankaj");
     }
 
     return ( 
